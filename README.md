@@ -2,11 +2,17 @@
 This app use world time API to fetch data from internet and process it to show time of different contries.
 
 Through this project I had learned about:
+
 *Stateful Widget
+
 *Routing
+
 *API handling
+
 *Exception handling
+
 *Null safety
+
 *await and async
 
 Here are some screenshots of the app that i had made:
